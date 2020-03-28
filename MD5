@@ -1,0 +1,9 @@
+136e5b9d0cc630fbc0428314c3b051a1 *DESCRIPTION
+4da7d84d758ca4c63ebc7946ce1916b2 *NAMESPACE
+d522a1aec115f56751b7f37bf02258c2 *R/drake.R
+5aedb5335625a1474797f0155b2217f2 *R/fhlwb.R
+e56edfa4564720c3e037e8a0d8a098e0 *R/seager.R
+087e361a3626a51293b9ed5131312a2e *man/drake.Rd
+d171587e239c1b9134869acb238bbb0e *man/fhlwb.Rd
+9a786a7c3fe0f420c6c4fb13d6c69d1e *man/seager.Rd
+1674b204506bf41e9954cbd8674c36d5 *tests/testthat/testthat.R
